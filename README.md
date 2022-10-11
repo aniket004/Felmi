@@ -1,7 +1,7 @@
 # Felmi
-FeLMi: Few-shot Learning with hard Mixup
+FeLMi: Few-shot Learning with hard Mixup, NeurIPS 2022
 
-Authors: Aniket Roy, Anshul Shah, Ketul Shah, Prithviraj Dhar, Anoop Cherian and Rama Cheallappa
+Authors: Aniket Roy, Anshul Shah, Ketul Shah, Prithviraj Dhar, Anoop Cherian and Rama Cheallappa.
 
 Abstract: Learning from few examples is a challenging computer vision task. Traditionally,
 meta-learning based methods have been used to solve this problem. However recent
